@@ -11,5 +11,6 @@
     <module>HRMS-web</module>
     <module>HRMS-candidate</module>
     <module>HRMS-admin</module>
+    <module>HRMS-repository</module>
   </modules>
 </project>
