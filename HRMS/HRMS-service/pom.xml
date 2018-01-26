@@ -6,4 +6,14 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>HRMS-service</artifactId>
+   <dependencies>
+  
+<dependency>
+   <groupId>com.xenture</groupId>
+     <artifactId>HRMS-repository</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+</dependency>
+
+  </dependencies>
+  
 </project>
