@@ -1,5 +1,1 @@
-<html>
-<body>
-<h2>Hello World! in Candidate</h2>
-</body>
-</html>
+<a href="home">Home</a>
